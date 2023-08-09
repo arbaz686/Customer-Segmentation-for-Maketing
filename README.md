@@ -20,7 +20,7 @@ In the realm of marketing and business analytics, customer segmentation is an in
 
 ## Getting Started
 
-To commence with this project, ensure that the requisite libraries are installed by executing the initial code block in the [Importing the libraries and the data](#importing-the-libraries-and-the-data) section. Proceed with the following steps:
+To commence with this project, ensure that the requisite libraries are installed by executing the initial code block in the [Importing the libraries and the data] section. Proceed with the following steps:
 
 ### Importing the Data
 
@@ -37,7 +37,7 @@ Delve into the dataset by leveraging functions such as `data.head()`, `data.tail
 
 ### Data Preprocessing
 
-Preprocess the data by undertaking actions like column renaming, missing value management, and label refinement as delineated in the [Data Preprocessing](#data-preprocessing) section.
+Preprocess the data by undertaking actions like column renaming, missing value management, and label refinement as delineated in the [Data Preprocessing] section.
 
 ## Determining Optimal Clusters
 
@@ -49,7 +49,7 @@ Execute the K-Means clustering procedure utilizing the optimal cluster count der
 
 ## Visualization
 
-Elicit meaningful insights through scatterplots and boxplots, as detailed in the [Visualization](#visualization) segment. These visual representations, harnessed via libraries like Matplotlib and Seaborn, illuminate the inherent structures within the data.
+Elicit meaningful insights through scatterplots and boxplots, as detailed in the [Visualization] segment. These visual representations, harnessed via libraries like Matplotlib and Seaborn, illuminate the inherent structures within the data.
 
 ## Analysis
 
