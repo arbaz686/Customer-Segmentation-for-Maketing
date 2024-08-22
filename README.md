@@ -1,4 +1,4 @@
-# Customer Segmentation using K-Means Clustering - GitHub Repository
+# Customer Segmentation using K-Means Clustering
 
 Welcome to the "Customer Segmentation using K-Means Clustering" GitHub repository. This project focuses on leveraging the K-Means clustering algorithm to perform customer segmentation based on key variables - annual income and spending score. The outcome of this endeavor is to derive actionable insights for targeted marketing and business strategy refinement.
 
